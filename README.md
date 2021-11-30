@@ -1,4 +1,4 @@
 # tacoCloud2
 springboot project
-java11
-thymeleaf
++java11
++thymeleaf
